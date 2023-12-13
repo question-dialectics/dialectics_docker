@@ -4,7 +4,7 @@ env:
   CREATE_DB_ON_BOOT: 1
 
 params:
-  offline_page_repository: https://github.com/discourse/discourse-offline-page.git
+  offline_page_repository: https://github.com/question-dialectics/discourse-offline-page.git
 
 run:
   - replace:
